@@ -1,4 +1,4 @@
-# flutter_bloc_todo
+# flutter_bloc_project
 
 A new Flutter project.
 
